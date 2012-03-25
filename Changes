@@ -1,10 +1,29 @@
-Revision history for Dist-Zilla-MintingProfile-Author-Andrefs
+Changelog for Dist-Zilla-MintingProfile-Author-Andrefs
 
-0.01_08   2012-03-25 04:11:05 Europe/Lisbon
-		added MetaResourcesFromGit
+0.01_09 2012-03-25T03:43:58
+ [André Santos <andrefs@cpan.org>]
+ - lcb
 
-0.01_04   2012-03-25 03:34:12 Europe/Lisbon
-		added [ChackChangesHasContents]
+ - uncommented [ChangelogFromGit] (installed fixed version from GH)
 
-0.01_03   2012-03-25 03:31:24 Europe/Lisbon
-		first working version
+ - added first_version = 0.01_01 to [Git::NextVersion]
+
+ - added MetaResourcesFromGit
+
+ - added [ChackChangesHasContents]
+
+ - v0.01_03
+
+ - v0.01_02
+
+ - gitignore
+
+ - first working version
+   - dists created with dzil new -P Author::Andrefs have git, pass tests,
+     etc
+
+ - minor
+
+ - first commit after 'dzil new'
+
+

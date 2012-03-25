@@ -2,7 +2,7 @@ use strict;
 use warnings;
 package Dist::Zilla::MintingProfile::Author::Andrefs;
 {
-  $Dist::Zilla::MintingProfile::Author::Andrefs::VERSION = '0.01_08';
+  $Dist::Zilla::MintingProfile::Author::Andrefs::VERSION = '0.01_09';
 }
 
 # ABSTRACT: Andrefs's Minting Profile
@@ -26,7 +26,7 @@ Dist::Zilla::MintingProfile::Author::Andrefs - Andrefs's Minting Profile
 
 =head1 VERSION
 
-version 0.01_08
+version 0.01_09
 
 =head1 AUTHOR
 
