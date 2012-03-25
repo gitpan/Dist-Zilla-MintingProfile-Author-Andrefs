@@ -1,5 +1,8 @@
 Revision history for Dist-Zilla-MintingProfile-Author-Andrefs
 
+0.01_05   2012-03-25 04:04:43 Europe/Lisbon
+		added MetaResourcesFromGit
+
 0.01_04   2012-03-25 03:34:12 Europe/Lisbon
 		added [ChackChangesHasContents]
 
