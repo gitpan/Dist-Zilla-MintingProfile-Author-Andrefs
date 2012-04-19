@@ -1,6 +1,16 @@
 Changelog for Dist-Zilla-MintingProfile-Author-Andrefs
 
-0.01_12 2012-03-27T14:15:21
+0.01_14 2012-04-19T23:30:20
+ [André Santos <andrefs@cpan.org>]
+ - added weaver.ini for Pod::Weaver
+
+
+v0.01_13 2012-03-28T14:09:28
+ [André Santos <andrefs@cpan.org>]
+ - dist zilla plugins tunning
+
+
+v0.01_11 2012-03-25T03:43:43
  [André Santos <andrefs@cpan.org>]
  - lcb
 
@@ -8,12 +18,24 @@ Changelog for Dist-Zilla-MintingProfile-Author-Andrefs
 
  - added first_version = 0.01_01 to [Git::NextVersion]
 
+
+v0.01_08 2012-03-25T03:04:37
+ [André Santos <andrefs@cpan.org>]
  - added MetaResourcesFromGit
 
+
+v0.01_04 2012-03-25T02:34:09
+ [André Santos <andrefs@cpan.org>]
  - added [ChackChangesHasContents]
 
+
+v0.01_03 2012-03-25T02:31:33
+ [André Santos <andrefs@cpan.org>]
  - v0.01_03
 
+
+v0.01_02 2012-03-25T02:17:24
+ [André Santos <andrefs@cpan.org>]
  - v0.01_02
 
  - gitignore
@@ -22,6 +44,9 @@ Changelog for Dist-Zilla-MintingProfile-Author-Andrefs
    - dists created with dzil new -P Author::Andrefs have git, pass tests,
      etc
 
+
+v0.01_01 2012-03-25T01:27:27
+ [André Santos <andrefs@cpan.org>]
  - minor
 
  - first commit after 'dzil new'
